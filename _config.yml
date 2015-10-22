@@ -2,8 +2,8 @@
 title: Limeade Stand
 # email: limeadestand@pacificwest.com
 description: Limeade Stand℠ supports hyper-microenterprises and community organizations through education, information, and consultations.
-baseurl: /limeadestand
-url: https://alleycatmews.github.io # "http://yourdomain.com" the base hostname & protocol for your site
+# baseurl: 
+url: https://alleycatmews.github.io/limeadestand # "http://yourdomain.com" the base hostname & protocol for your site
 twitter_username: limeadestand
 github_username:  alleycatmews
 
