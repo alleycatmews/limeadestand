@@ -2,8 +2,8 @@
 title: Limeade Stand
 # email: limeadestand@pacificwest.com
 description: Limeade Stand℠ supports hyper-microenterprises and community organizations through education, information, and consultations.
-baseurl: /limeadestand
-url: https://alleycatmews.github.io # "http://yourdomain.com" the base hostname & protocol for your site
+# baseurl:  fuck this - it's time that jekyll to deprecate this line - see below for what works
+url: https://alleycatmews.github.io/limeadestand # include the actual website address without the trailing slash here - ignore baseurl, it will cause errors
 twitter_username: limeadestand
 github_username:  alleycatmews
 
