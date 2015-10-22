@@ -1,0 +1,12 @@
+# Site settings
+title: Limeade Stand
+# email: limeadestand@pacificwest.com
+description: Limeade Stand℠ supports hyper-microenterprises and community organizations through education, information, and consultations.
+# baseurl: /
+url: https://ladywillow.sdf.org/limeadestand # "http://yourdomain.com" the base hostname & protocol for your site
+twitter_username: limeadestand
+github_username:  alleycatmews
+
+# Build settings
+markdown: kramdown
+permalink: none
